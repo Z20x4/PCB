@@ -9,7 +9,7 @@ You can find all the schemes and other files in our EasyEDA projects:
 List of needed components:
 
 - Zilog Z80 CPU
-- Samsung K6T1008C2C-DB70
+- Samsung K6T1008C2C-DB70 RAM
 - Arduino MEGA 2560 R3 (1 + 1 optional pcs)
 - Arduino SD card module
 - Nokia 5110 LCD screen
